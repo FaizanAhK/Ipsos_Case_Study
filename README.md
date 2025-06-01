@@ -1,6 +1,9 @@
 # Ipsos_Case_Study
 This case study describes how Ipsos used A/B testing to compare two different online ad formats: ads presented in a sequenced narrative vs. a traditional 30-second ad presented multiple times. It show how data driven market research reveals important insights about the impact of different ad formats on the effectiveness of a digital ad campaign.
 
+![Alt text](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/main/Images/Screenshot%202025-06-01%20091510.png?raw=true)
+
+
 # Case study: Ipsos: How a market research company used A/B testing to help advertisers create more effective ads.
 This case study describes how Ipsos used A/B testing to compare two different online ad formats: 
 
