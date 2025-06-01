@@ -108,5 +108,7 @@ Overall, the results suggest that advertisers should invest in ad sequencing for
 
 This case study on Ipsos’ A/B testing demonstrates the power of data-driven research to generate key business insights. The results of the A/B test clearly show how ad sequencing increases ad recall and purchase intent compared to repeated viewings of a traditional ad. Ipsos’s research on the benefits of ad sequencing helped the media company improve the experience and performance of the advertisers on their platform and added value to the media company’s brand.
 
-# [This One-Pager from Ipsos offers a brief overview of the research project](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/5777a60bf5535dedd75a94cf106d7c2cf351ce8d/assets/Ipsos%20YouTube%20Ad%20Effectiveness.pdf)  
+### [This One-Pager from Ipsos offers a brief overview of the research project](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/5777a60bf5535dedd75a94cf106d7c2cf351ce8d/assets/Ipsos%20YouTube%20Ad%20Effectiveness.pdf)  
+
+### [This white paper from Ipsos provides a detailed summary of the methodology and results of the research project](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/f559076035456bf7f22cf41ee514af1ca932a6bd/assets/How%20Sequencing%20Ads%20Drive%20Impact.pdf)
 
