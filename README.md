@@ -15,6 +15,8 @@ It shows how data driven market research reveals important insights about the im
 
 Ipsos is a full-service market research company. Founded in France in 1975, Ipsos is now a global company with 18,000 staff operating in 90 countries. Ipsos provides research services across numerous private and public sector domains. These services include brand building; advertising effectiveness; product development; reputation; customer and user experience; and public opinion, election, and crisis management.
 
+![Alt text](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/main/Images/Screenshot%202025-06-01%20091626.png?raw=true)
+
 ## Project background
 
 Ipsos’ client for this project was an online media company that allows users to post their own video content. The media company wanted to help its own clients - the advertisers on their platform - create the most effective ads. In particular, they wanted to find out whether investing in sequenced ads would increase the likelihood of viewers recalling an ad and purchasing a product. Video ad sequencing lets advertisers show ads in an order based on the most engaging and memorable story structures. The media company commissioned Ipsos to conduct research to measure the impact of five different sequence structures on brand lift.
@@ -24,6 +26,8 @@ Ipsos’ client for this project was an online media company that allows users t
 They used only one sequenced structure : 
 
 Tease, Amplify, Echo. This sequence starts with a short ad to spark viewer curiosity (Tease); then, it moves on to a longer ad with more information to secure viewer engagement (Amplify); finally, it ends with a shorter ad that recaps the story and spurs viewers to action (Echo).
+
+![Alt text](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/main/Images/Screenshot%202025-06-01%20091850.png?raw=true)
 
 ### Project Framework
 
@@ -97,6 +101,8 @@ The results of the A/B test indicated that ad sequencing works!  
 The Tease, Amplify, Echo ad sequence had a significantly greater impact on ad recall and purchase intent than repeated viewings of a traditional ad. For example, across all product categories, 54% of viewers recalled the ad after being exposed to the “Tease, Amplify, Echo” sequence as compared to 42% with a repeated traditional ad. Further, 30% of viewers expressed intent to purchase after being exposed to the “Tease, Amplify, Echo” ad sequence as compared to 25% with a repeated traditional ad.
 
 Overall, the results suggest that advertisers should invest in ad sequencing for their digital campaigns to increase brand lift. 
+
+![Alt text](https://github.com/FaizanAhK/Ipsos_Case_Study/blob/main/Images/Screenshot%202025-06-01%20092849.png?raw=true)
 
 ## Conclusion 
 
